@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/machinbrol/vecmath/maths"
+	"github.com/etic4/vecmath/maths"
 )
 
 //Vec2 Représente un vecteur 2D
